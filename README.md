@@ -1,4 +1,4 @@
-# RETFoundTrusted
+# RetClean
 This repository contains the codebase for the research project titled "Efficiency and Safety of Automated Label Cleaning on Multimodal Retinal Images," published in npj Digital Medicine. The primary objective of this project is to fine-tune the RETFound model to evaluate its performance on multimodal retinal images.
 
 # Abstract
